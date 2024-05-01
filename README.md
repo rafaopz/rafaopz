@@ -8,7 +8,7 @@
 <p>
 
 <div align="center">
-  Hello there 👋 Thank you for taking the time to view my GitHub Profile 😄
+  Hello there 👋 Thank you for taking the time to view my GitHub profile 😄
 </div>
 </p>
 
