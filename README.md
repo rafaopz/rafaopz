@@ -15,7 +15,7 @@
 <p>
 
 <div align="center">
-  I have been passionate about data science in which pursued me to become obsessed and self-made. I am always looking to discover patterns of which are hidden in the data.
+  I have been passionate about data science in which pursued me to become obsessed and self-made. I am always looking to decode the patterns in which are hidden in the data.
 </div>
 </p>
 
