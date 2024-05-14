@@ -8,14 +8,17 @@
 <p>
 
 <div align="center">
-  Hello there 👋 Thank you for taking the time to view my GitHub profile 😄
+ <!-- Hello there 👋 Thank you for taking the time to view my GitHub profile 😄 -->
+  ¡Hola! 👋 Gracias por tomarte el tiempo de revisar mi GitHub 😄
 </div>
 </p>
 
 <p>
 
 <div align="center">
-  I have been passionate about data science in which pursued me to become obsessed and self-made. I am always looking to decode the patterns in which are hidden in the data.
+ <!-- I have been passionate about data science in which pursued me to become obsessed and self-made. I am always looking to decode the patterns in which are hidden in the data. -->
+Científico de datos con background en seguridad electrónica e informática en general, me dedique de manera autodidacta a aprender programación en mis tiempos libres y actualmente estoy inmerso en mi crecimiento como Data Scientist, tengo experiencia práctica en proyectos diversos utilizando Python, SQL y otras tecnologías del sector, realizando tareas de ETL, análisis de datos, modelos predictivos y más.
+Mi objetivo es fusionar estas habilidades técnicas en soluciones innovadoras y datos significativos, además de fomentar un clima laboral de compañerismo y buen humor. Mi compromiso con el aprendizaje continuo me impulsa a mantenerme actualizado con las últimas tendencias tecnológicas. Nivel de inglés B2.
 </div>
 </p>
 
@@ -33,14 +36,14 @@ class rafaelopz():
 if __name__ == '__main__':
     me = rafaelopz()
 ```
-## Tech Stack
+## Stack tecnológico
 
-- Programming languages:
+- Lenguajes de programación:
    ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  <!-- ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)-->
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- Libraries:
+- Librerías:
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
@@ -48,28 +51,28 @@ if __name__ == '__main__':
   ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
   ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
-- Data Engineering tools: 
+- Bases de datos: 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
-  ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=googlebigquery)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+   <!-- ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=googlebigquery)-->
 - BigData: 
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-333333?style=flat&logo=apache-hadoop)
   ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-333333?style=flat&logo=apache-hive)
   ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apache-spark)
 - BI Analyst:
-  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
   ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
-- IDE & version control:
+  <!-- ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)-->
+- IDE & control de versión:
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
   ![colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- Cloud technologies;
+- Cloud technologies
   ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
 
-## Connect with me
+## Conecta conmigo
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rafael-oropeza-594853151/"><img src="https://img.shields.io/badge/-Rafael%20Oropeza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
