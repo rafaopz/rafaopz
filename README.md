@@ -17,7 +17,7 @@
 
 <div align="center">
  <!-- I have been passionate about data science in which pursued me to become obsessed and self-made. I am always looking to decode the patterns in which are hidden in the data. -->
-Científico de datos con background en seguridad electrónica e informática en general, me dedique de manera autodidacta a aprender programación en mis tiempos libres y actualmente estoy inmerso en mi crecimiento como Data Scientist, tengo experiencia práctica en proyectos diversos utilizando Python, SQL y otras tecnologías del sector, realizando tareas de ETL, análisis de datos, modelos predictivos y más.
+Analista de datos con background en seguridad electrónica e informática en general, me dedique de manera autodidacta a aprender programación en mis tiempos libres y actualmente estoy inmerso en mi crecimiento como Data Analyst, tengo experiencia práctica en proyectos diversos utilizando Python, SQL y otras tecnologías del sector, realizando tareas de ETL, análisis de datos, modelos predictivos y más.
 Mi objetivo es fusionar estas habilidades técnicas en soluciones innovadoras y datos significativos, además de fomentar un clima laboral de compañerismo y buen humor. Mi compromiso con el aprendizaje continuo me impulsa a mantenerme actualizado con las últimas tendencias tecnológicas. Nivel de inglés B2.
 </div>
 </p>
